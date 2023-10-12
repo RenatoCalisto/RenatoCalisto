@@ -9,4 +9,4 @@
 - 📫 How to reach me: chemicalisto@gmail.com
 - ⚡ Fun fact: PcD
 
-- 😄 Portfólio: https://portifolio-renatocalisto.vercel.app/
+- 😄 Portfólio: https://portifoliorenatocalisto.vercel.app/
